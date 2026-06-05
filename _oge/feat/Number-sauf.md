@@ -13,7 +13,7 @@ udver: '2'
 </table>
 
 `Number[sauf]` is an inflectional feature of [nouns](_oge/pos/NOUN), [proper nouns](_oge/pos/PROPN), [pronouns](_oge/pos/PRON), [adjectives](_oge/pos/ADJ), [numerals](_oge/pos/NUM), [verbs](_oge/pos/VERB) and [adpositions](_oge/pos/ADP). In Old Georgian, *Suffixaufnahme* consists of the repetition of case and number endings of the head noun onto other nominals governed by it, and it mainly functions as a strategy for delimiting noun phrase constituency. It is also annotated with [`Case[sauf]`](_oge/feat/Case[sauf]).
-Occasionally, *Suffixaufnahme* can be double, resulting in the stacking of three case endings. These are annotated with [`Number[sauf2]`](_oge/feat/Number[sauf2]).
+Occasionally, *Suffixaufnahme* can be double, resulting in the stacking of three case endings. These are annotated with [`Number[dsauf]`](_oge/feat/Number[dsauf]).
 
 
 ### <a name="Sing">`Sing`</a>: singular number
